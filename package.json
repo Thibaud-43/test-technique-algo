@@ -1,0 +1,23 @@
+{
+  "name": "test-technique-algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thibaud-43/test-technique-algo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thibaud-43/test-technique-algo/issues"
+  },
+  "homepage": "https://github.com/Thibaud-43/test-technique-algo#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
